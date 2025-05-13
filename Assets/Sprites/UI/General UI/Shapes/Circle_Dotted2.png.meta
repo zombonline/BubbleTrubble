@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 007270232f427eb4a9e1a3937ce5fd67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6596614369188776425
+    second: Circle_Dotted2_0
+  - first:
+      213: -1935959768503984634
+    second: Circle_Dotted2_1
+  - first:
+      213: 8883718997114095597
+    second: Circle_Dotted2_2
+  - first:
+      213: -9077353969075624285
+    second: Circle_Dotted2_3
+  - first:
+      213: 4426807826099602788
+    second: Circle_Dotted2_4
+  - first:
+      213: 2371013230827247121
+    second: Circle_Dotted2_5
+  - first:
+      213: -9090690168157748892
+    second: Circle_Dotted2_6
+  - first:
+      213: 3042060400363274056
+    second: Circle_Dotted2_7
+  - first:
+      213: 1497074176712953827
+    second: Circle_Dotted2_8
+  - first:
+      213: 275749412919130661
+    second: Circle_Dotted2_9
+  - first:
+      213: -5100462643752980530
+    second: Circle_Dotted2_10
+  - first:
+      213: -8622185963338395466
+    second: Circle_Dotted2_11
+  - first:
+      213: -3279867935978477050
+    second: Circle_Dotted2_12
+  - first:
+      213: 2564338964107463503
+    second: Circle_Dotted2_13
+  - first:
+      213: -5314311882674632986
+    second: Circle_Dotted2_14
+  - first:
+      213: 5682674087885570270
+    second: Circle_Dotted2_15
+  - first:
+      213: 6226226301332897381
+    second: Circle_Dotted2_16
+  - first:
+      213: -4003006154467821146
+    second: Circle_Dotted2_17
+  - first:
+      213: -8140696364747640958
+    second: Circle_Dotted2_18
+  - first:
+      213: -2394872243236888686
+    second: Circle_Dotted2_19
+  - first:
+      213: 3377712511470735428
+    second: Circle_Dotted2_20
+  - first:
+      213: -1743064670902147399
+    second: Circle_Dotted2_21
+  - first:
+      213: -7813682249099854121
+    second: Circle_Dotted2_22
+  - first:
+      213: -7627631473262906420
+    second: Circle_Dotted2_23
+  - first:
+      213: 2548314167562690996
+    second: Circle_Dotted2_24
+  - first:
+      213: -4191814312674905588
+    second: Circle_Dotted2_25
+  - first:
+      213: 2273685812011624160
+    second: Circle_Dotted2_26
+  - first:
+      213: -3618903012209971249
+    second: Circle_Dotted2_27
+  - first:
+      213: 1124483054247341213
+    second: Circle_Dotted2_28
+  - first:
+      213: 3238784972614666993
+    second: Circle_Dotted2_29
+  - first:
+      213: 1595059338088753478
+    second: Circle_Dotted2_30
+  - first:
+      213: 7385083649805805133
+    second: Circle_Dotted2_31
+  - first:
+      213: 7487189122835600530
+    second: Circle_Dotted2_32
+  - first:
+      213: 376051617353462850
+    second: Circle_Dotted2_33
+  - first:
+      213: -1988912204441585835
+    second: Circle_Dotted2_34
+  - first:
+      213: -287822330203465113
+    second: Circle_Dotted2_35
+  - first:
+      213: -5540788375675985185
+    second: Circle_Dotted2_36
+  - first:
+      213: 3505703782878004325
+    second: Circle_Dotted2_37
+  - first:
+      213: 4148538918067453719
+    second: Circle_Dotted2_38
+  - first:
+      213: 9058267560092019043
+    second: Circle_Dotted2_39
+  - first:
+      213: 6931796500178660252
+    second: Circle_Dotted2_40
+  - first:
+      213: 8523605832288310223
+    second: Circle_Dotted2_41
+  - first:
+      213: -7339775949609129028
+    second: Circle_Dotted2_42
+  - first:
+      213: -4891146736874190498
+    second: Circle_Dotted2_43
+  - first:
+      213: 3487596016892105124
+    second: Circle_Dotted2_44
+  - first:
+      213: 955256374032405112
+    second: Circle_Dotted2_45
+  - first:
+      213: -7792116269762003318
+    second: Circle_Dotted2_46
+  - first:
+      213: 8888093611245930516
+    second: Circle_Dotted2_47
+  - first:
+      213: -6226394396423157860
+    second: Circle_Dotted2_48
+  - first:
+      213: -4458105397318921925
+    second: Circle_Dotted2_49
+  - first:
+      213: 1960836841105189155
+    second: Circle_Dotted2_50
+  - first:
+      213: -8808840293680208648
+    second: Circle_Dotted2_51
+  - first:
+      213: 2522015597259109495
+    second: Circle_Dotted2_52
+  - first:
+      213: 5134856326709406852
+    second: Circle_Dotted2_53
+  - first:
+      213: -1459685349901140479
+    second: Circle_Dotted2_54
+  - first:
+      213: 6476893693236989367
+    second: Circle_Dotted2_55
+  - first:
+      213: -5967485291955084611
+    second: Circle_Dotted2_56
+  - first:
+      213: -8723418042631843838
+    second: Circle_Dotted2_57
+  - first:
+      213: 5910734367792329035
+    second: Circle_Dotted2_58
+  - first:
+      213: -4666430406954341657
+    second: Circle_Dotted2_59
+  - first:
+      213: -6892479947783886101
+    second: Circle_Dotted2_60
+  - first:
+      213: 1785661240428628489
+    second: Circle_Dotted2_61
+  - first:
+      213: -2508215443604389333
+    second: Circle_Dotted2_62
+  - first:
+      213: 1901972228754565782
+    second: Circle_Dotted2_63
+  - first:
+      213: 5011052668701646159
+    second: Circle_Dotted2_64
+  - first:
+      213: -4428941338151867607
+    second: Circle_Dotted2_65
+  - first:
+      213: 4720342686579898228
+    second: Circle_Dotted2_66
+  - first:
+      213: -1708876201021040488
+    second: Circle_Dotted2_67
+  - first:
+      213: 1730084144870042361
+    second: Circle_Dotted2_68
+  - first:
+      213: -7688440787689653674
+    second: Circle_Dotted2_69
+  - first:
+      213: 2740679512082397889
+    second: Circle_Dotted2_70
+  - first:
+      213: 4059410350102188515
+    second: Circle_Dotted2_71
+  - first:
+      213: -4603960469067141198
+    second: Circle_Dotted2_72
+  - first:
+      213: -6457762900622305317
+    second: Circle_Dotted2_73
+  - first:
+      213: -1616219594576624666
+    second: Circle_Dotted2_74
+  - first:
+      213: 5859866109234051770
+    second: Circle_Dotted2_75
+  - first:
+      213: 7632028090807581497
+    second: Circle_Dotted2_76
+  - first:
+      213: 8392471857748844168
+    second: Circle_Dotted2_77
+  - first:
+      213: 8927821672166850127
+    second: Circle_Dotted2_78
+  - first:
+      213: -8281136572375010797
+    second: Circle_Dotted2_79
+  - first:
+      213: 5171665971045410432
+    second: Circle_Dotted2_80
+  - first:
+      213: 1377964655595082535
+    second: Circle_Dotted2_81
+  - first:
+      213: 7621521875652443327
+    second: Circle_Dotted2_82
+  - first:
+      213: 3297360510467739722
+    second: Circle_Dotted2_83
+  - first:
+      213: -1980515579113202525
+    second: Circle_Dotted2_84
+  - first:
+      213: 3400060926021651128
+    second: Circle_Dotted2_85
+  - first:
+      213: -1998923918077665003
+    second: Circle_Dotted2_86
+  - first:
+      213: 1270892052719528788
+    second: Circle_Dotted2_87
+  - first:
+      213: -7954139340535458665
+    second: Circle_Dotted2_88
+  - first:
+      213: -5376865596073137292
+    second: Circle_Dotted2_89
+  - first:
+      213: -5005691792493117932
+    second: Circle_Dotted2_90
+  - first:
+      213: -2556865067910981019
+    second: Circle_Dotted2_91
+  - first:
+      213: -8368147488752655669
+    second: Circle_Dotted2_92
+  - first:
+      213: -8954911835228919544
+    second: Circle_Dotted2_93
+  - first:
+      213: 5314666250676834293
+    second: Circle_Dotted2_94
+  - first:
+      213: 3849406230174674861
+    second: Circle_Dotted2_95
+  - first:
+      213: 7021045961537953490
+    second: Circle_Dotted2_96
+  - first:
+      213: -3687784615560029601
+    second: Circle_Dotted2_97
+  - first:
+      213: 2718052452255076978
+    second: Circle_Dotted2_98
+  - first:
+      213: 6824930583791520563
+    second: Circle_Dotted2_99
+  - first:
+      213: 8095280702757918187
+    second: Circle_Dotted2_100
+  - first:
+      213: -665999159706617005
+    second: Circle_Dotted2_101
+  - first:
+      213: -8745370025705004344
+    second: Circle_Dotted2_102
+  - first:
+      213: 9068435785536230962
+    second: Circle_Dotted2_103
+  - first:
+      213: -4256603236198780733
+    second: Circle_Dotted2_104
+  - first:
+      213: -8141122114491424462
+    second: Circle_Dotted2_105
+  - first:
+      213: 9101065923861137073
+    second: Circle_Dotted2_106
+  - first:
+      213: -535648288668974454
+    second: Circle_Dotted2_107
+  - first:
+      213: 5436615658792754804
+    second: Circle_Dotted2_108
+  - first:
+      213: 7330126275022860450
+    second: Circle_Dotted2_109
+  - first:
+      213: -4872789967508432849
+    second: Circle_Dotted2_110
+  - first:
+      213: -1851327333250572553
+    second: Circle_Dotted2_111
+  - first:
+      213: 811843926259770973
+    second: Circle_Dotted2_112
+  - first:
+      213: 7321578202947392688
+    second: Circle_Dotted2_113
+  - first:
+      213: 1064108795158824828
+    second: Circle_Dotted2_114
+  - first:
+      213: 3958186104219718196
+    second: Circle_Dotted2_115
+  - first:
+      213: 4247201385007258041
+    second: Circle_Dotted2_116
+  - first:
+      213: 1982147341225425404
+    second: Circle_Dotted2_117
+  - first:
+      213: 5116104495661307702
+    second: Circle_Dotted2_118
+  - first:
+      213: 6749216627306657964
+    second: Circle_Dotted2_119
+  - first:
+      213: 8595007782354565258
+    second: Circle_Dotted2_120
+  - first:
+      213: 7353603316904024460
+    second: Circle_Dotted2_121
+  - first:
+      213: 1000686466371056925
+    second: Circle_Dotted2_122
+  - first:
+      213: -3873573010532945978
+    second: Circle_Dotted2_123
+  - first:
+      213: 1827136673763261455
+    second: Circle_Dotted2_124
+  - first:
+      213: 6668020849973480908
+    second: Circle_Dotted2_125
+  - first:
+      213: 2181207423789914794
+    second: Circle_Dotted2_126
+  - first:
+      213: 4207206517735009347
+    second: Circle_Dotted2_127
+  - first:
+      213: 1641668479937574437
+    second: Circle_Dotted2_128
+  - first:
+      213: 710349327976549060
+    second: Circle_Dotted2_129
+  - first:
+      213: 2530556541850571298
+    second: Circle_Dotted2_130
+  - first:
+      213: -4361903006762613831
+    second: Circle_Dotted2_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circle_Dotted2_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 425
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e90cb381d1eb8b50800000000000000
+      internalID: 6596614369188776425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 425
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5fd209d61225e0800000000000000
+      internalID: -1935959768503984634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 425
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de700632c5f494b70800000000000000
+      internalID: 8883718997114095597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 400
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6e3c4b8a2c60280800000000000000
+      internalID: -9077353969075624285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 400
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465069b734e2f6d30800000000000000
+      internalID: 4426807826099602788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1169535a8f787e020800000000000000
+      internalID: 2371013230827247121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46142d3e47167d180800000000000000
+      internalID: -9090690168157748892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 400
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f7fec01d1973a20800000000000000
+      internalID: 3042060400363274056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc269280da6c410800000000000000
+      internalID: 1497074176712953827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a311c41a8a3d300800000000000000
+      internalID: 275749412919130661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf24f8bf348739b0800000000000000
+      internalID: -5100462643752980530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01bd37c87d75880800000000000000
+      internalID: -8622185963338395466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2fcd5d719b72d0800000000000000
+      internalID: -3279867935978477050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b815f83bc569320800000000000000
+      internalID: 2564338964107463503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68a87cf75cf36b0800000000000000
+      internalID: -5314311882674632986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed08cbe89f9ecde40800000000000000
+      internalID: 5682674087885570270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e342645dff76650800000000000000
+      internalID: 6226226301332897381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93e318c177278c0800000000000000
+      internalID: -4003006154467821146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 349
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f27ea99cf660f80800000000000000
+      internalID: -8140696364747640958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f1c632264b3ced0800000000000000
+      internalID: -2394872243236888686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4401b9f12ab00ee20800000000000000
+      internalID: 3377712511470735428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6285ebae36fc7e0800000000000000
+      internalID: -1743064670902147399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb0a2a469309390800000000000000
+      internalID: -7813682249099854121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc333968695352690800000000000000
+      internalID: -7627631473262906420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16baddb3e6d5320800000000000000
+      internalID: 2548314167562690996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023d90871fa3d5c0800000000000000
+      internalID: -4191814312674905588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66cc31331cd8f10800000000000000
+      internalID: 2273685812011624160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf22a852e217cdc0800000000000000
+      internalID: -3618903012209971249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ceb5c4167fa9f00800000000000000
+      internalID: 1124483054247341213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa0294d5c972fc20800000000000000
+      internalID: 3238784972614666993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649237a540ac22610800000000000000
+      internalID: 1595059338088753478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46683f93761d7660800000000000000
+      internalID: 7385083649805805133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294d8c0a6d6d7e760800000000000000
+      internalID: 7487189122835600530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244709d14f0083500800000000000000
+      internalID: 376051617353462850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 300
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f1d443e6f564e0800000000000000
+      internalID: -1988912204441585835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a1cc99d13710cf0800000000000000
+      internalID: -287822330203465113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22834245a2b13b0800000000000000
+      internalID: -5540788375675985185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 300
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564cf2a3403c6a030800000000000000
+      internalID: 3505703782878004325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3b448a22929930800000000000000
+      internalID: 4148538918067453719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369aab76a5e65bd70800000000000000
+      internalID: 9058267560092019043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be170d030b23060800000000000000
+      internalID: 6931796500178660252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31efe285ee94670800000000000000
+      internalID: 8523605832288310223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbba79069a0e32a90800000000000000
+      internalID: -7339775949609129028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598d4c05f72f1cb0800000000000000
+      internalID: -4891146736874190498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1dbea691e666030800000000000000
+      internalID: 3487596016892105124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87211ab6c90c14d00800000000000000
+      internalID: 955256374032405112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3b4c7987dcd390800000000000000
+      internalID: -7792116269762003318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188bbc5c0ad85b70800000000000000
+      internalID: 8888093611245930516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9707b909476799a0800000000000000
+      internalID: -6226394396423157860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31dd8dd2c0a122c0800000000000000
+      internalID: -4458105397318921925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e290d7ba463b10800000000000000
+      internalID: 1960836841105189155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 249
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42b049c66b0c580800000000000000
+      internalID: -8808840293680208648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bf90d2dffff220800000000000000
+      internalID: 2522015597259109495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c6e2e9f9ca24740800000000000000
+      internalID: 5134856326709406852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 249
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10efc4378e72ebbe0800000000000000
+      internalID: -1459685349901140479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdcb597f7c82e950800000000000000
+      internalID: 6476893693236989367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db226aa7ebb3f2da0800000000000000
+      internalID: -5967485291955084611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20012b5428130f680800000000000000
+      internalID: -8723418042631843838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4174f15795270250800000000000000
+      internalID: 5910734367792329035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa768c4428d3fb0800000000000000
+      internalID: -4666430406954341657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_60
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaa6d2610ef850a0800000000000000
+      internalID: -6892479947783886101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a8ee4ff61f7c810800000000000000
+      internalID: 1785661240428628489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_62
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22cfc7d757013dd0800000000000000
+      internalID: -2508215443604389333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ae29b3aa9256a10800000000000000
+      internalID: 1901972228754565782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_64
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 183
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d1cbc3ad5da8540800000000000000
+      internalID: 5011052668701646159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2a68815d3982c0800000000000000
+      internalID: -4428941338151867607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47735bbf9a6028140800000000000000
+      internalID: 4720342686579898228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989501362ad848e0800000000000000
+      internalID: -1708876201021040488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa3860d5e720810800000000000000
+      internalID: 1730084144870042361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a3225b6db2d4590800000000000000
+      internalID: -7688440787689653674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 200
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabcd8de79d80620800000000000000
+      internalID: 2740679512082397889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_71
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1926ba43ce55830800000000000000
+      internalID: 4059410350102188515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 200
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfef41a8527b10c0800000000000000
+      internalID: -4603960469067141198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd716b84bda6166a0800000000000000
+      internalID: -6457762900622305317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e30c3287d80299e0800000000000000
+      internalID: -1616219594576624666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafe30fd2d625150800000000000000
+      internalID: 5859866109234051770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7364cc196ae960800000000000000
+      internalID: 7632028090807581497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_77
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e159c70bc087470800000000000000
+      internalID: 8392471857748844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_78
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ef98b528ef5eb70800000000000000
+      internalID: 8927821672166850127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312771ba92e731d80800000000000000
+      internalID: -8281136572375010797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086232dccc275c740800000000000000
+      internalID: 5171665971045410432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 175
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d9c1bd838f1310800000000000000
+      internalID: 1377964655595082535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf12ee3c515c960800000000000000
+      internalID: 7621521875652443327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4094d20ae392cd20800000000000000
+      internalID: 3297360510467739722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac94d2f29bc384e0800000000000000
+      internalID: -1980515579113202525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bac43ed5617f2f20800000000000000
+      internalID: 3400060926021651128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511e2f989456244e0800000000000000
+      internalID: -1998923918077665003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be636a69d13a110800000000000000
+      internalID: 1270892052719528788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_88
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7949c61a9683d9190800000000000000
+      internalID: -7954139340535458665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_89
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47baa0d6a398165b0800000000000000
+      internalID: -5376865596073137292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_90
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41efb5506d5388ab0800000000000000
+      internalID: -5005691792493117932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9f8084c0348cd0800000000000000
+      internalID: -2556865067910981019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc222d0023e5edb80800000000000000
+      internalID: -8368147488752655669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092d3a8123c9b380800000000000000
+      internalID: -8954911835228919544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_94
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8953fbcc71c940800000000000000
+      internalID: 5314666250676834293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_95
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafacb14296db6530800000000000000
+      internalID: 3849406230174674861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_96
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de19295a14cf6160800000000000000
+      internalID: 7021045961537953490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_97
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad46d4e6b52dcc0800000000000000
+      internalID: -3687784615560029601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2721b81fd4678b520800000000000000
+      internalID: 2718052452255076978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_99
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 106
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc797b43607be50800000000000000
+      internalID: 6824930583791520563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d5f498e6385070800000000000000
+      internalID: 8095280702757918187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_101
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7af8fa45e1c6f0800000000000000
+      internalID: -665999159706617005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2218ceb4432a680800000000000000
+      internalID: -8745370025705004344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d351ec4e89dd70800000000000000
+      internalID: 9068435785536230962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f79cb8e18de4c0800000000000000
+      internalID: -4256603236198780733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_105
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23169a4029ce40f80800000000000000
+      internalID: -8141122114491424462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_106
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6c72dfc3b7d4e70800000000000000
+      internalID: 9101065923861137073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_107
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 111
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82075d28bef098f0800000000000000
+      internalID: -535648288668974454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 77
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1ba2232db27b40800000000000000
+      internalID: 5436615658792754804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0be7da207d9b560800000000000000
+      internalID: 7330126275022860450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289299775f506cb0800000000000000
+      internalID: -4872789967508432849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_111
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed0a26993ce46e0800000000000000
+      internalID: -1851327333250572553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_112
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a5c5efbf344b00800000000000000
+      internalID: 811843926259770973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_113
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b41ced85987b9560800000000000000
+      internalID: 7321578202947392688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_114
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 76
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778fc1bf4974ce00800000000000000
+      internalID: 1064108795158824828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 79
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43257e85a4d4ee630800000000000000
+      internalID: 3958186104219718196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_116
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 51
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b997e2382711fa30800000000000000
+      internalID: 4247201385007258041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_117
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f9364180028b10800000000000000
+      internalID: 1982147341225425404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637dba9beed000740800000000000000
+      internalID: 5116104495661307702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f5ce73c80aad50800000000000000
+      internalID: 6749216627306657964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_120
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8836fc2a0a974770800000000000000
+      internalID: 8595007782354565258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_121
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 50
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89d233714f3d0660800000000000000
+      internalID: 7353603316904024460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_122
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15769f0a0723ed00800000000000000
+      internalID: 1000686466371056925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_123
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa4a7bedd4e3ac0800000000000000
+      internalID: -3873573010532945978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_124
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 18
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7fbbcf1b4b5910800000000000000
+      internalID: 1827136673763261455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_125
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 26
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd419562a1998c50800000000000000
+      internalID: 6668020849973480908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_126
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 26
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa517c6894354e10800000000000000
+      internalID: 2181207423789914794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_127
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 26
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cad428900036a30800000000000000
+      internalID: 4207206517735009347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_128
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52672a9d8c068c610800000000000000
+      internalID: 1641668479937574437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caca7043faabd900800000000000000
+      internalID: 710349327976549060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2225b0174c75e1320800000000000000
+      internalID: 2530556541850571298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Dotted2_131
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3c43163586773c0800000000000000
+      internalID: -4361903006762613831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Circle_Dotted2_0: 6596614369188776425
+      Circle_Dotted2_1: -1935959768503984634
+      Circle_Dotted2_10: -5100462643752980530
+      Circle_Dotted2_100: 8095280702757918187
+      Circle_Dotted2_101: -665999159706617005
+      Circle_Dotted2_102: -8745370025705004344
+      Circle_Dotted2_103: 9068435785536230962
+      Circle_Dotted2_104: -4256603236198780733
+      Circle_Dotted2_105: -8141122114491424462
+      Circle_Dotted2_106: 9101065923861137073
+      Circle_Dotted2_107: -535648288668974454
+      Circle_Dotted2_108: 5436615658792754804
+      Circle_Dotted2_109: 7330126275022860450
+      Circle_Dotted2_11: -8622185963338395466
+      Circle_Dotted2_110: -4872789967508432849
+      Circle_Dotted2_111: -1851327333250572553
+      Circle_Dotted2_112: 811843926259770973
+      Circle_Dotted2_113: 7321578202947392688
+      Circle_Dotted2_114: 1064108795158824828
+      Circle_Dotted2_115: 3958186104219718196
+      Circle_Dotted2_116: 4247201385007258041
+      Circle_Dotted2_117: 1982147341225425404
+      Circle_Dotted2_118: 5116104495661307702
+      Circle_Dotted2_119: 6749216627306657964
+      Circle_Dotted2_12: -3279867935978477050
+      Circle_Dotted2_120: 8595007782354565258
+      Circle_Dotted2_121: 7353603316904024460
+      Circle_Dotted2_122: 1000686466371056925
+      Circle_Dotted2_123: -3873573010532945978
+      Circle_Dotted2_124: 1827136673763261455
+      Circle_Dotted2_125: 6668020849973480908
+      Circle_Dotted2_126: 2181207423789914794
+      Circle_Dotted2_127: 4207206517735009347
+      Circle_Dotted2_128: 1641668479937574437
+      Circle_Dotted2_129: 710349327976549060
+      Circle_Dotted2_13: 2564338964107463503
+      Circle_Dotted2_130: 2530556541850571298
+      Circle_Dotted2_131: -4361903006762613831
+      Circle_Dotted2_14: -5314311882674632986
+      Circle_Dotted2_15: 5682674087885570270
+      Circle_Dotted2_16: 6226226301332897381
+      Circle_Dotted2_17: -4003006154467821146
+      Circle_Dotted2_18: -8140696364747640958
+      Circle_Dotted2_19: -2394872243236888686
+      Circle_Dotted2_2: 8883718997114095597
+      Circle_Dotted2_20: 3377712511470735428
+      Circle_Dotted2_21: -1743064670902147399
+      Circle_Dotted2_22: -7813682249099854121
+      Circle_Dotted2_23: -7627631473262906420
+      Circle_Dotted2_24: 2548314167562690996
+      Circle_Dotted2_25: -4191814312674905588
+      Circle_Dotted2_26: 2273685812011624160
+      Circle_Dotted2_27: -3618903012209971249
+      Circle_Dotted2_28: 1124483054247341213
+      Circle_Dotted2_29: 3238784972614666993
+      Circle_Dotted2_3: -9077353969075624285
+      Circle_Dotted2_30: 1595059338088753478
+      Circle_Dotted2_31: 7385083649805805133
+      Circle_Dotted2_32: 7487189122835600530
+      Circle_Dotted2_33: 376051617353462850
+      Circle_Dotted2_34: -1988912204441585835
+      Circle_Dotted2_35: -287822330203465113
+      Circle_Dotted2_36: -5540788375675985185
+      Circle_Dotted2_37: 3505703782878004325
+      Circle_Dotted2_38: 4148538918067453719
+      Circle_Dotted2_39: 9058267560092019043
+      Circle_Dotted2_4: 4426807826099602788
+      Circle_Dotted2_40: 6931796500178660252
+      Circle_Dotted2_41: 8523605832288310223
+      Circle_Dotted2_42: -7339775949609129028
+      Circle_Dotted2_43: -4891146736874190498
+      Circle_Dotted2_44: 3487596016892105124
+      Circle_Dotted2_45: 955256374032405112
+      Circle_Dotted2_46: -7792116269762003318
+      Circle_Dotted2_47: 8888093611245930516
+      Circle_Dotted2_48: -6226394396423157860
+      Circle_Dotted2_49: -4458105397318921925
+      Circle_Dotted2_5: 2371013230827247121
+      Circle_Dotted2_50: 1960836841105189155
+      Circle_Dotted2_51: -8808840293680208648
+      Circle_Dotted2_52: 2522015597259109495
+      Circle_Dotted2_53: 5134856326709406852
+      Circle_Dotted2_54: -1459685349901140479
+      Circle_Dotted2_55: 6476893693236989367
+      Circle_Dotted2_56: -5967485291955084611
+      Circle_Dotted2_57: -8723418042631843838
+      Circle_Dotted2_58: 5910734367792329035
+      Circle_Dotted2_59: -4666430406954341657
+      Circle_Dotted2_6: -9090690168157748892
+      Circle_Dotted2_60: -6892479947783886101
+      Circle_Dotted2_61: 1785661240428628489
+      Circle_Dotted2_62: -2508215443604389333
+      Circle_Dotted2_63: 1901972228754565782
+      Circle_Dotted2_64: 5011052668701646159
+      Circle_Dotted2_65: -4428941338151867607
+      Circle_Dotted2_66: 4720342686579898228
+      Circle_Dotted2_67: -1708876201021040488
+      Circle_Dotted2_68: 1730084144870042361
+      Circle_Dotted2_69: -7688440787689653674
+      Circle_Dotted2_7: 3042060400363274056
+      Circle_Dotted2_70: 2740679512082397889
+      Circle_Dotted2_71: 4059410350102188515
+      Circle_Dotted2_72: -4603960469067141198
+      Circle_Dotted2_73: -6457762900622305317
+      Circle_Dotted2_74: -1616219594576624666
+      Circle_Dotted2_75: 5859866109234051770
+      Circle_Dotted2_76: 7632028090807581497
+      Circle_Dotted2_77: 8392471857748844168
+      Circle_Dotted2_78: 8927821672166850127
+      Circle_Dotted2_79: -8281136572375010797
+      Circle_Dotted2_8: 1497074176712953827
+      Circle_Dotted2_80: 5171665971045410432
+      Circle_Dotted2_81: 1377964655595082535
+      Circle_Dotted2_82: 7621521875652443327
+      Circle_Dotted2_83: 3297360510467739722
+      Circle_Dotted2_84: -1980515579113202525
+      Circle_Dotted2_85: 3400060926021651128
+      Circle_Dotted2_86: -1998923918077665003
+      Circle_Dotted2_87: 1270892052719528788
+      Circle_Dotted2_88: -7954139340535458665
+      Circle_Dotted2_89: -5376865596073137292
+      Circle_Dotted2_9: 275749412919130661
+      Circle_Dotted2_90: -5005691792493117932
+      Circle_Dotted2_91: -2556865067910981019
+      Circle_Dotted2_92: -8368147488752655669
+      Circle_Dotted2_93: -8954911835228919544
+      Circle_Dotted2_94: 5314666250676834293
+      Circle_Dotted2_95: 3849406230174674861
+      Circle_Dotted2_96: 7021045961537953490
+      Circle_Dotted2_97: -3687784615560029601
+      Circle_Dotted2_98: 2718052452255076978
+      Circle_Dotted2_99: 6824930583791520563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

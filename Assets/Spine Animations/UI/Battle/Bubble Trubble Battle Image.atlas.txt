@@ -1,0 +1,10 @@
+Bubble Trubble Battle Image.png
+	size: 3610, 2193
+	filter: Linear, Linear
+	pma: true
+BackGround
+	bounds: 2, 2, 2599, 2189
+Bubble copy 2
+	bounds: 2603, 853, 1005, 1338
+Spike copy 2
+	bounds: 2603, 86, 682, 765

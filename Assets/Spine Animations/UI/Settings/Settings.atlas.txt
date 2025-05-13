@@ -1,0 +1,38 @@
+Settings.png
+	size: 3085, 2012
+	filter: Linear, Linear
+	pma: true
+Background
+	bounds: 2, 2, 1538, 778
+Bubble
+	bounds: 2768, 564, 300, 298
+	rotate: 90
+Cogwheel_1
+	bounds: 2, 782, 1232, 1228
+Cogwheel_1_Back
+	bounds: 1236, 782, 1232, 1228
+Cogwheel_2
+	bounds: 2470, 866, 531, 531
+Cogwheel_3
+	bounds: 1542, 78, 702, 702
+Cogwheel_4
+	bounds: 2246, 260, 520, 520
+Left_Eye
+	bounds: 2246, 178, 206, 80
+Left_Eyebrow
+	bounds: 2454, 195, 69, 63
+Left_Iris
+	bounds: 1542, 12, 189, 64
+Left_Pupil
+	bounds: 2768, 493, 124, 69
+Right_Eye
+	bounds: 3003, 1191, 206, 80
+	rotate: 90
+Right_Eyebrow
+	bounds: 3003, 1126, 69, 63
+Right_Iris
+	bounds: 2470, 800, 189, 64
+Right_Pupil
+	bounds: 2246, 107, 124, 69
+Spike_Body
+	bounds: 2470, 1399, 613, 611

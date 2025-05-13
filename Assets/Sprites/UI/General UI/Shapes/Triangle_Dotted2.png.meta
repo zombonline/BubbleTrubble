@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: 1d7aaa350a1c3bd4aa2b6d1bedb6ab7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7954369701506944632
+    second: Triangle_Dotted2_0
+  - first:
+      213: -6161970910661698618
+    second: Triangle_Dotted2_1
+  - first:
+      213: 900667627783116692
+    second: Triangle_Dotted2_2
+  - first:
+      213: -2101129124254982132
+    second: Triangle_Dotted2_3
+  - first:
+      213: -6495294847630889485
+    second: Triangle_Dotted2_4
+  - first:
+      213: -7038725095531277776
+    second: Triangle_Dotted2_5
+  - first:
+      213: 7560574517554141706
+    second: Triangle_Dotted2_6
+  - first:
+      213: -26702803510884492
+    second: Triangle_Dotted2_7
+  - first:
+      213: 675360471735161688
+    second: Triangle_Dotted2_8
+  - first:
+      213: 1049491334432814161
+    second: Triangle_Dotted2_9
+  - first:
+      213: 8033032791151853230
+    second: Triangle_Dotted2_10
+  - first:
+      213: 643874054705800686
+    second: Triangle_Dotted2_11
+  - first:
+      213: -6176303899941497041
+    second: Triangle_Dotted2_12
+  - first:
+      213: -9172281370834531472
+    second: Triangle_Dotted2_13
+  - first:
+      213: 503416803989369595
+    second: Triangle_Dotted2_14
+  - first:
+      213: -7976003285096081060
+    second: Triangle_Dotted2_15
+  - first:
+      213: -1271920233541456747
+    second: Triangle_Dotted2_16
+  - first:
+      213: 1011942833934847767
+    second: Triangle_Dotted2_17
+  - first:
+      213: 6428889601882269858
+    second: Triangle_Dotted2_18
+  - first:
+      213: -5080804405350321761
+    second: Triangle_Dotted2_19
+  - first:
+      213: -1232336080654228613
+    second: Triangle_Dotted2_20
+  - first:
+      213: -2646978035288165488
+    second: Triangle_Dotted2_21
+  - first:
+      213: -4836867733515793987
+    second: Triangle_Dotted2_22
+  - first:
+      213: 4551209072023622393
+    second: Triangle_Dotted2_23
+  - first:
+      213: 6177770381283714162
+    second: Triangle_Dotted2_24
+  - first:
+      213: -7267266155479993414
+    second: Triangle_Dotted2_25
+  - first:
+      213: -9222990354519723841
+    second: Triangle_Dotted2_26
+  - first:
+      213: 4868079663421900601
+    second: Triangle_Dotted2_27
+  - first:
+      213: 7518105736188917049
+    second: Triangle_Dotted2_28
+  - first:
+      213: -7837488819615956093
+    second: Triangle_Dotted2_29
+  - first:
+      213: 6393307233882923317
+    second: Triangle_Dotted2_30
+  - first:
+      213: 3182940954098220457
+    second: Triangle_Dotted2_31
+  - first:
+      213: -8189611779597691525
+    second: Triangle_Dotted2_32
+  - first:
+      213: 2210766860049729863
+    second: Triangle_Dotted2_33
+  - first:
+      213: 5708496183227087301
+    second: Triangle_Dotted2_34
+  - first:
+      213: 5666710165667975525
+    second: Triangle_Dotted2_35
+  - first:
+      213: -2724054451407496198
+    second: Triangle_Dotted2_36
+  - first:
+      213: -2325934885381441333
+    second: Triangle_Dotted2_37
+  - first:
+      213: -2508893408626075329
+    second: Triangle_Dotted2_38
+  - first:
+      213: -2509660003292203546
+    second: Triangle_Dotted2_39
+  - first:
+      213: -3179060420483832308
+    second: Triangle_Dotted2_40
+  - first:
+      213: 53757576760735777
+    second: Triangle_Dotted2_41
+  - first:
+      213: 1682764614468668217
+    second: Triangle_Dotted2_42
+  - first:
+      213: -3883849629938980088
+    second: Triangle_Dotted2_43
+  - first:
+      213: 514152503817738014
+    second: Triangle_Dotted2_44
+  - first:
+      213: 2872272088185697725
+    second: Triangle_Dotted2_45
+  - first:
+      213: -2251399521799309559
+    second: Triangle_Dotted2_46
+  - first:
+      213: -5509821313251122301
+    second: Triangle_Dotted2_47
+  - first:
+      213: 615295777819271449
+    second: Triangle_Dotted2_48
+  - first:
+      213: -5199230039313881121
+    second: Triangle_Dotted2_49
+  - first:
+      213: 9197431812353303507
+    second: Triangle_Dotted2_50
+  - first:
+      213: -8835426898470695589
+    second: Triangle_Dotted2_51
+  - first:
+      213: -8490321767915739690
+    second: Triangle_Dotted2_52
+  - first:
+      213: -7205012630244293244
+    second: Triangle_Dotted2_53
+  - first:
+      213: -5264502255648926997
+    second: Triangle_Dotted2_54
+  - first:
+      213: 1945513664173636732
+    second: Triangle_Dotted2_55
+  - first:
+      213: -7674267744551953219
+    second: Triangle_Dotted2_56
+  - first:
+      213: -7064929092123144562
+    second: Triangle_Dotted2_57
+  - first:
+      213: 3656688417632463015
+    second: Triangle_Dotted2_58
+  - first:
+      213: -5748393719944553008
+    second: Triangle_Dotted2_59
+  - first:
+      213: -1325634035623720819
+    second: Triangle_Dotted2_60
+  - first:
+      213: 3505658195157505179
+    second: Triangle_Dotted2_61
+  - first:
+      213: 2956266347770406520
+    second: Triangle_Dotted2_62
+  - first:
+      213: -4815512068091370744
+    second: Triangle_Dotted2_63
+  - first:
+      213: -1293451358912533655
+    second: Triangle_Dotted2_64
+  - first:
+      213: -5944707760816507630
+    second: Triangle_Dotted2_65
+  - first:
+      213: -1538145417767588362
+    second: Triangle_Dotted2_66
+  - first:
+      213: -4202157211644082204
+    second: Triangle_Dotted2_67
+  - first:
+      213: 304887817156034542
+    second: Triangle_Dotted2_68
+  - first:
+      213: 3380853422674973053
+    second: Triangle_Dotted2_69
+  - first:
+      213: -7972932641872253852
+    second: Triangle_Dotted2_70
+  - first:
+      213: 3206131372973272032
+    second: Triangle_Dotted2_71
+  - first:
+      213: 8700124390510004406
+    second: Triangle_Dotted2_72
+  - first:
+      213: 3094110939340464777
+    second: Triangle_Dotted2_73
+  - first:
+      213: -772901616741449349
+    second: Triangle_Dotted2_74
+  - first:
+      213: 74653678955953885
+    second: Triangle_Dotted2_75
+  - first:
+      213: -588113506287111488
+    second: Triangle_Dotted2_76
+  - first:
+      213: 5436035546864673569
+    second: Triangle_Dotted2_77
+  - first:
+      213: -9055899327128602376
+    second: Triangle_Dotted2_78
+  - first:
+      213: -3804443366369248638
+    second: Triangle_Dotted2_79
+  - first:
+      213: -3037671072806256756
+    second: Triangle_Dotted2_80
+  - first:
+      213: 8642821466859379107
+    second: Triangle_Dotted2_81
+  - first:
+      213: 4537094402751604791
+    second: Triangle_Dotted2_82
+  - first:
+      213: -2273130932665257889
+    second: Triangle_Dotted2_83
+  - first:
+      213: 2996160836481098629
+    second: Triangle_Dotted2_84
+  - first:
+      213: 864087478734894764
+    second: Triangle_Dotted2_85
+  - first:
+      213: -5484166651231847058
+    second: Triangle_Dotted2_86
+  - first:
+      213: -3056660664140856600
+    second: Triangle_Dotted2_87
+  - first:
+      213: 1600688816558736562
+    second: Triangle_Dotted2_88
+  - first:
+      213: -8874507091005509233
+    second: Triangle_Dotted2_89
+  - first:
+      213: -8666554547221032154
+    second: Triangle_Dotted2_90
+  - first:
+      213: 7801866814931796667
+    second: Triangle_Dotted2_91
+  - first:
+      213: 1563232916662886068
+    second: Triangle_Dotted2_92
+  - first:
+      213: -5499123466427923803
+    second: Triangle_Dotted2_93
+  - first:
+      213: 6457921688772827623
+    second: Triangle_Dotted2_94
+  - first:
+      213: -4240013576803358251
+    second: Triangle_Dotted2_95
+  - first:
+      213: 5300188539284549320
+    second: Triangle_Dotted2_96
+  - first:
+      213: 7261342303013973734
+    second: Triangle_Dotted2_97
+  - first:
+      213: 3961921684229359648
+    second: Triangle_Dotted2_98
+  - first:
+      213: 1847895499503360269
+    second: Triangle_Dotted2_99
+  - first:
+      213: 3026177616762022618
+    second: Triangle_Dotted2_100
+  - first:
+      213: -1674794099431754565
+    second: Triangle_Dotted2_101
+  - first:
+      213: 7880746892342445875
+    second: Triangle_Dotted2_102
+  - first:
+      213: -730380383759411429
+    second: Triangle_Dotted2_103
+  - first:
+      213: -7010844698754561381
+    second: Triangle_Dotted2_104
+  - first:
+      213: 2996358913114007057
+    second: Triangle_Dotted2_105
+  - first:
+      213: 6288646877436630696
+    second: Triangle_Dotted2_106
+  - first:
+      213: -6843521728193996654
+    second: Triangle_Dotted2_107
+  - first:
+      213: 3153003434251149813
+    second: Triangle_Dotted2_108
+  - first:
+      213: 645544018546602308
+    second: Triangle_Dotted2_109
+  - first:
+      213: 9031993777836417580
+    second: Triangle_Dotted2_110
+  - first:
+      213: 5359766800452265899
+    second: Triangle_Dotted2_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Triangle_Dotted2_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 410
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e83767919936e60800000000000000
+      internalID: 7954369701506944632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 385
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb18b1ba184c7aa0800000000000000
+      internalID: -6161970910661698618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 385
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d4be7f60df7c00800000000000000
+      internalID: 900667627783116692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 360
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ed89913a47d2e0800000000000000
+      internalID: -2101129124254982132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2987efb31cd5a0800000000000000
+      internalID: -6495294847630889485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 360
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0321b3181dc615e90800000000000000
+      internalID: -7038725095531277776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a5fa0577e8ce860800000000000000
+      internalID: 7560574517554141706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 335
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770a3211f121aff0800000000000000
+      internalID: -26702803510884492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 335
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535d1555cc5f5900800000000000000
+      internalID: 675360471735161688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 335
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154f7b7eeca809e00800000000000000
+      internalID: 1049491334432814161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 310
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebba143c01b7f60800000000000000
+      internalID: 8033032791151853230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 310
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee564d69a008fe800800000000000000
+      internalID: 643874054705800686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 310
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279023935c594aa0800000000000000
+      internalID: -6176303899941497041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 310
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b8977a0b285b080800000000000000
+      internalID: -9172281370834531472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 285
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2bfbf7aee7cf600800000000000000
+      internalID: 503416803989369595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 285
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59df78554b8f4190800000000000000
+      internalID: -7976003285096081060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 285
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c2129594b395ee0800000000000000
+      internalID: -1271920233541456747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 285
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f40bd55a42b0e00800000000000000
+      internalID: 1011942833934847767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8256cf701083950800000000000000
+      internalID: 6428889601882269858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91bad5005b5d79b0800000000000000
+      internalID: -5080804405350321761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7325b42ddcd5eee0800000000000000
+      internalID: -1232336080654228613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093336e408b044bd0800000000000000
+      internalID: -2646978035288165488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90e365c6effdcb0800000000000000
+      internalID: -4836867733515793987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 235
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d084a984292f30800000000000000
+      internalID: 4551209072023622393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27468583e69dbb550800000000000000
+      internalID: 6177770381283714162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3756a6feb752b90800000000000000
+      internalID: -7267266155479993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb07ff7532b510080800000000000000
+      internalID: -9222990354519723841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c09469a4ee8340800000000000000
+      internalID: 4868079663421900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fd5d955da55860800000000000000
+      internalID: 7518105736188917049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 210
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38302bf7175ab3390800000000000000
+      internalID: -7837488819615956093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531e6875e0799b850800000000000000
+      internalID: 6393307233882923317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad311e0fe31c2c20800000000000000
+      internalID: 3182940954098220457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7599b41a77a85e80800000000000000
+      internalID: -8189611779597691525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749487efeb83eae10800000000000000
+      internalID: 2210766860049729863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97ce2a807a83f40800000000000000
+      internalID: 5708496183227087301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 210
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611cb54fd234ae40800000000000000
+      internalID: 5666710165667975525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd80bb8e6323ad0800000000000000
+      internalID: -2724054451407496198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8762a8b8e98bfd0800000000000000
+      internalID: -2325934885381441333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39168fccbe9e2dd0800000000000000
+      internalID: -2508893408626075329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e533c41685eb2dd0800000000000000
+      internalID: -2509660003292203546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ae851465b1e3d0800000000000000
+      internalID: -3179060420483832308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283fc23b3cfeb000800000000000000
+      internalID: 53757576760735777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 160
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b800e40816a5710800000000000000
+      internalID: 1682764614468668217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b647ec65bc91ac0800000000000000
+      internalID: -3883849629938980088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171f666af2a22700800000000000000
+      internalID: 514152503817738014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f39a0f3c5cd720800000000000000
+      internalID: 2872272088185697725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907faa7301c61c0e0800000000000000
+      internalID: -2251399521799309559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3836ac735be2983b0800000000000000
+      internalID: -5509821313251122301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91127bcff38f98800800000000000000
+      internalID: 615295777819271449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e72173df98d7b0800000000000000
+      internalID: -5199230039313881121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32235d087d3af70800000000000000
+      internalID: 9197431812353303507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d09b54c02426580800000000000000
+      internalID: -8835426898470695589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5ad92f5515c2a80800000000000000
+      internalID: -8490321767915739690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850614cf27a20c90800000000000000
+      internalID: -7205012630244293244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be29dcc471bb0f6b0800000000000000
+      internalID: -5264502255648926997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cfcbaae5adffa10800000000000000
+      internalID: 1945513664173636732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc1eb675268f7590800000000000000
+      internalID: -7674267744551953219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e4dac1c6454fd90800000000000000
+      internalID: -7064929092123144562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8a44bedba2fb230800000000000000
+      internalID: 3656688417632463015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_59
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5e953e5a9930b0800000000000000
+      internalID: -5748393719944553008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d880b7c3ed66a9de0800000000000000
+      internalID: -1325634035623720819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94dc420e8996a030800000000000000
+      internalID: 3505658195157505179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_62
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876eb409494c60920800000000000000
+      internalID: 2956266347770406520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803aec9a94ddb2db0800000000000000
+      internalID: -4815512068091370744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_64
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ba5c197dcbc0ee0800000000000000
+      internalID: -1293451358912533655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 111
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153607b9c7208da0800000000000000
+      internalID: -5944707760816507630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd611954e867aae0800000000000000
+      internalID: -1538145417767588362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7cb9da740fea5c0800000000000000
+      internalID: -4202157211644082204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeffde5badd2b3400800000000000000
+      internalID: 304887817156034542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71943086443bee20800000000000000
+      internalID: 3380853422674973053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c661f21047a5190800000000000000
+      internalID: -7972932641872253852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebae453f777e7c20800000000000000
+      internalID: 3206131372973272032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_72
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88f06b90d0db870800000000000000
+      internalID: 8700124390510004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e90b818d70fa20800000000000000
+      internalID: 3094110939340464777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 86
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710dc7131a1645f0800000000000000
+      internalID: -772901616741449349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 86
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde785f1029390100800000000000000
+      internalID: 74653678955953885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b52ac1e996d7f0800000000000000
+      internalID: -588113506287111488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e34d478da07b40800000000000000
+      internalID: 5436035546864673569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8fcccca8bf25280800000000000000
+      internalID: -9055899327128602376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a38734ae6e33bc0800000000000000
+      internalID: -3804443366369248638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f37e8e04608d5d0800000000000000
+      internalID: -3037671072806256756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9164d155871f770800000000000000
+      internalID: 8642821466859379107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_82
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7382c6c125ff6fe30800000000000000
+      internalID: 4537094402751604791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_83
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50f886d5773470e0800000000000000
+      internalID: -2273130932665257889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 61
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a46c0860849920800000000000000
+      internalID: 2996160836481098629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63bd8dbfaddfb00800000000000000
+      internalID: 864087478734894764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3840bc7354e3b0800000000000000
+      internalID: -5484166651231847058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e289f2225f8495d0800000000000000
+      internalID: -3056660664140856600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_88
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b48ce27ff9c63610800000000000000
+      internalID: 1600688816558736562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_89
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817ee3e1da67d480800000000000000
+      internalID: -8874507091005509233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62318528e863ab780800000000000000
+      internalID: -8666554547221032154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_91
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb20be8388cc54c60800000000000000
+      internalID: 7801866814931796667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_92
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be93ea2e08b1b510800000000000000
+      internalID: 1563232916662886068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_93
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a28c87c7503fa3b0800000000000000
+      internalID: -5499123466427923803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_94
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 36
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e958967f852f9950800000000000000
+      internalID: 6457921688772827623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96dcfcd127825c0800000000000000
+      internalID: -4240013576803358251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee6a6156d0e8940800000000000000
+      internalID: 5300188539284549320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee2aa33a5875c460800000000000000
+      internalID: 7261342303013973734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_98
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288868d7c29bf630800000000000000
+      internalID: 3961921684229359648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d0fd8a2b05a910800000000000000
+      internalID: 1847895499503360269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_100
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa65252842ff920800000000000000
+      internalID: 3026177616762022618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_101
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43377d3afe1c8e0800000000000000
+      internalID: -1674794099431754565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c5da6b890e5d60800000000000000
+      internalID: 7880746892342445875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b175b1329ea2dd5f0800000000000000
+      internalID: -730380383759411429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9acd4b34e974be90800000000000000
+      internalID: -7010844698754561381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1166cbb5e84359920800000000000000
+      internalID: 2996358913114007057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_106
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6da7f2403c54750800000000000000
+      internalID: 6288646877436630696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298545a2f3de601a0800000000000000
+      internalID: -6843521728193996654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_108
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1602a0be7b1cb20800000000000000
+      internalID: 3153003434251149813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_109
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44139585dde65f800800000000000000
+      internalID: 645544018546602308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226a75cc76185d70800000000000000
+      internalID: 9031993777836417580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Dotted2_111
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a3ebf187b16a40800000000000000
+      internalID: 5359766800452265899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Triangle_Dotted2_0: 7954369701506944632
+      Triangle_Dotted2_1: -6161970910661698618
+      Triangle_Dotted2_10: 8033032791151853230
+      Triangle_Dotted2_100: 3026177616762022618
+      Triangle_Dotted2_101: -1674794099431754565
+      Triangle_Dotted2_102: 7880746892342445875
+      Triangle_Dotted2_103: -730380383759411429
+      Triangle_Dotted2_104: -7010844698754561381
+      Triangle_Dotted2_105: 2996358913114007057
+      Triangle_Dotted2_106: 6288646877436630696
+      Triangle_Dotted2_107: -6843521728193996654
+      Triangle_Dotted2_108: 3153003434251149813
+      Triangle_Dotted2_109: 645544018546602308
+      Triangle_Dotted2_11: 643874054705800686
+      Triangle_Dotted2_110: 9031993777836417580
+      Triangle_Dotted2_111: 5359766800452265899
+      Triangle_Dotted2_12: -6176303899941497041
+      Triangle_Dotted2_13: -9172281370834531472
+      Triangle_Dotted2_14: 503416803989369595
+      Triangle_Dotted2_15: -7976003285096081060
+      Triangle_Dotted2_16: -1271920233541456747
+      Triangle_Dotted2_17: 1011942833934847767
+      Triangle_Dotted2_18: 6428889601882269858
+      Triangle_Dotted2_19: -5080804405350321761
+      Triangle_Dotted2_2: 900667627783116692
+      Triangle_Dotted2_20: -1232336080654228613
+      Triangle_Dotted2_21: -2646978035288165488
+      Triangle_Dotted2_22: -4836867733515793987
+      Triangle_Dotted2_23: 4551209072023622393
+      Triangle_Dotted2_24: 6177770381283714162
+      Triangle_Dotted2_25: -7267266155479993414
+      Triangle_Dotted2_26: -9222990354519723841
+      Triangle_Dotted2_27: 4868079663421900601
+      Triangle_Dotted2_28: 7518105736188917049
+      Triangle_Dotted2_29: -7837488819615956093
+      Triangle_Dotted2_3: -2101129124254982132
+      Triangle_Dotted2_30: 6393307233882923317
+      Triangle_Dotted2_31: 3182940954098220457
+      Triangle_Dotted2_32: -8189611779597691525
+      Triangle_Dotted2_33: 2210766860049729863
+      Triangle_Dotted2_34: 5708496183227087301
+      Triangle_Dotted2_35: 5666710165667975525
+      Triangle_Dotted2_36: -2724054451407496198
+      Triangle_Dotted2_37: -2325934885381441333
+      Triangle_Dotted2_38: -2508893408626075329
+      Triangle_Dotted2_39: -2509660003292203546
+      Triangle_Dotted2_4: -6495294847630889485
+      Triangle_Dotted2_40: -3179060420483832308
+      Triangle_Dotted2_41: 53757576760735777
+      Triangle_Dotted2_42: 1682764614468668217
+      Triangle_Dotted2_43: -3883849629938980088
+      Triangle_Dotted2_44: 514152503817738014
+      Triangle_Dotted2_45: 2872272088185697725
+      Triangle_Dotted2_46: -2251399521799309559
+      Triangle_Dotted2_47: -5509821313251122301
+      Triangle_Dotted2_48: 615295777819271449
+      Triangle_Dotted2_49: -5199230039313881121
+      Triangle_Dotted2_5: -7038725095531277776
+      Triangle_Dotted2_50: 9197431812353303507
+      Triangle_Dotted2_51: -8835426898470695589
+      Triangle_Dotted2_52: -8490321767915739690
+      Triangle_Dotted2_53: -7205012630244293244
+      Triangle_Dotted2_54: -5264502255648926997
+      Triangle_Dotted2_55: 1945513664173636732
+      Triangle_Dotted2_56: -7674267744551953219
+      Triangle_Dotted2_57: -7064929092123144562
+      Triangle_Dotted2_58: 3656688417632463015
+      Triangle_Dotted2_59: -5748393719944553008
+      Triangle_Dotted2_6: 7560574517554141706
+      Triangle_Dotted2_60: -1325634035623720819
+      Triangle_Dotted2_61: 3505658195157505179
+      Triangle_Dotted2_62: 2956266347770406520
+      Triangle_Dotted2_63: -4815512068091370744
+      Triangle_Dotted2_64: -1293451358912533655
+      Triangle_Dotted2_65: -5944707760816507630
+      Triangle_Dotted2_66: -1538145417767588362
+      Triangle_Dotted2_67: -4202157211644082204
+      Triangle_Dotted2_68: 304887817156034542
+      Triangle_Dotted2_69: 3380853422674973053
+      Triangle_Dotted2_7: -26702803510884492
+      Triangle_Dotted2_70: -7972932641872253852
+      Triangle_Dotted2_71: 3206131372973272032
+      Triangle_Dotted2_72: 8700124390510004406
+      Triangle_Dotted2_73: 3094110939340464777
+      Triangle_Dotted2_74: -772901616741449349
+      Triangle_Dotted2_75: 74653678955953885
+      Triangle_Dotted2_76: -588113506287111488
+      Triangle_Dotted2_77: 5436035546864673569
+      Triangle_Dotted2_78: -9055899327128602376
+      Triangle_Dotted2_79: -3804443366369248638
+      Triangle_Dotted2_8: 675360471735161688
+      Triangle_Dotted2_80: -3037671072806256756
+      Triangle_Dotted2_81: 8642821466859379107
+      Triangle_Dotted2_82: 4537094402751604791
+      Triangle_Dotted2_83: -2273130932665257889
+      Triangle_Dotted2_84: 2996160836481098629
+      Triangle_Dotted2_85: 864087478734894764
+      Triangle_Dotted2_86: -5484166651231847058
+      Triangle_Dotted2_87: -3056660664140856600
+      Triangle_Dotted2_88: 1600688816558736562
+      Triangle_Dotted2_89: -8874507091005509233
+      Triangle_Dotted2_9: 1049491334432814161
+      Triangle_Dotted2_90: -8666554547221032154
+      Triangle_Dotted2_91: 7801866814931796667
+      Triangle_Dotted2_92: 1563232916662886068
+      Triangle_Dotted2_93: -5499123466427923803
+      Triangle_Dotted2_94: 6457921688772827623
+      Triangle_Dotted2_95: -4240013576803358251
+      Triangle_Dotted2_96: 5300188539284549320
+      Triangle_Dotted2_97: 7261342303013973734
+      Triangle_Dotted2_98: 3961921684229359648
+      Triangle_Dotted2_99: 1847895499503360269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

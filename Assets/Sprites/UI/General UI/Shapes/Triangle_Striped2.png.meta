@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: c5d3cbb174ef92d42b08cf1e3229360e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9044341643017877677
+    second: Triangle_Striped2_0
+  - first:
+      213: 1544626960752177486
+    second: Triangle_Striped2_1
+  - first:
+      213: 6238920044211993722
+    second: Triangle_Striped2_2
+  - first:
+      213: -2905782981420224975
+    second: Triangle_Striped2_3
+  - first:
+      213: 9072321360483736521
+    second: Triangle_Striped2_4
+  - first:
+      213: 3902972494426364396
+    second: Triangle_Striped2_5
+  - first:
+      213: 2835903939898854207
+    second: Triangle_Striped2_6
+  - first:
+      213: 5074490568195199071
+    second: Triangle_Striped2_7
+  - first:
+      213: -5612153110741653997
+    second: Triangle_Striped2_8
+  - first:
+      213: -5184314504430352632
+    second: Triangle_Striped2_9
+  - first:
+      213: 3778909162785734841
+    second: Triangle_Striped2_10
+  - first:
+      213: 4602493505079021023
+    second: Triangle_Striped2_11
+  - first:
+      213: 6827552361238229558
+    second: Triangle_Striped2_12
+  - first:
+      213: 8795809782928404781
+    second: Triangle_Striped2_13
+  - first:
+      213: 7558231065134536396
+    second: Triangle_Striped2_14
+  - first:
+      213: 7525617128736649231
+    second: Triangle_Striped2_15
+  - first:
+      213: 6202897198983057107
+    second: Triangle_Striped2_16
+  - first:
+      213: -5443497627689347682
+    second: Triangle_Striped2_17
+  - first:
+      213: 4615844604680056555
+    second: Triangle_Striped2_18
+  - first:
+      213: -385921156731042789
+    second: Triangle_Striped2_19
+  - first:
+      213: 3318177774599027554
+    second: Triangle_Striped2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Triangle_Striped2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 296
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87a5b2ec4f38d70800000000000000
+      internalID: 9044341643017877677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 307
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ff1a790e9f6510800000000000000
+      internalID: 1544626960752177486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 128
+        width: 256
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf15999b8159650800000000000000
+      internalID: 6238920044211993722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 201
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e621e16c59ca7d0800000000000000
+      internalID: -2905782981420224975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 270
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb52dbc53c57ed70800000000000000
+      internalID: 9072321360483736521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 338
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9576a0ec42a2630800000000000000
+      internalID: 3902972494426364396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 311
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4dcaab972b5720800000000000000
+      internalID: 2835903939898854207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50585539463c6640800000000000000
+      internalID: 5074490568195199071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 299
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e321fa70ad12b0800000000000000
+      internalID: -5612153110741653997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80706870d6d9d08b0800000000000000
+      internalID: -5184314504430352632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 263
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0005eacd1617430800000000000000
+      internalID: 3778909162785734841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 244
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd074335775fdf30800000000000000
+      internalID: 4602493505079021023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 225
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632fbf8d2b650ce50800000000000000
+      internalID: 6827552361238229558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217a57356ef01a70800000000000000
+      internalID: 8795809782928404781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 187
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69aa7cb1b34e860800000000000000
+      internalID: 7558231065134536396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 168
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0071f9f7ec507860800000000000000
+      internalID: 7525617128736649231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de86ab532e151650800000000000000
+      internalID: 6202897198983057107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 131
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9515ed9fbfc474b0800000000000000
+      internalID: -5443497627689347682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeab505636ce0040800000000000000
+      internalID: 4615844604680056555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140dbda0cee4aaf0800000000000000
+      internalID: -385921156731042789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Striped2_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b32940b198c0e20800000000000000
+      internalID: 3318177774599027554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Triangle_Striped2_0: 9044341643017877677
+      Triangle_Striped2_1: 1544626960752177486
+      Triangle_Striped2_10: 3778909162785734841
+      Triangle_Striped2_11: 4602493505079021023
+      Triangle_Striped2_12: 6827552361238229558
+      Triangle_Striped2_13: 8795809782928404781
+      Triangle_Striped2_14: 7558231065134536396
+      Triangle_Striped2_15: 7525617128736649231
+      Triangle_Striped2_16: 6202897198983057107
+      Triangle_Striped2_17: -5443497627689347682
+      Triangle_Striped2_18: 4615844604680056555
+      Triangle_Striped2_19: -385921156731042789
+      Triangle_Striped2_2: 6238920044211993722
+      Triangle_Striped2_20: 3318177774599027554
+      Triangle_Striped2_3: -2905782981420224975
+      Triangle_Striped2_4: 9072321360483736521
+      Triangle_Striped2_5: 3902972494426364396
+      Triangle_Striped2_6: 2835903939898854207
+      Triangle_Striped2_7: 5074490568195199071
+      Triangle_Striped2_8: -5612153110741653997
+      Triangle_Striped2_9: -5184314504430352632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

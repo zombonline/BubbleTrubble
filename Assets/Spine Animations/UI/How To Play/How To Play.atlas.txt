@@ -1,0 +1,18 @@
+How To Play.png
+	size: 1277, 2110
+	filter: Linear, Linear
+	pma: true
+Background
+	bounds: 627, 600, 1508, 648
+	rotate: 90
+Book
+	bounds: 2, 379, 1729, 623
+	rotate: 90
+Bubble
+	bounds: 2, 2, 375, 424
+	rotate: 90
+Page
+	bounds: 428, 91, 286, 208
+	rotate: 90
+Spike
+	bounds: 638, 50, 548, 548

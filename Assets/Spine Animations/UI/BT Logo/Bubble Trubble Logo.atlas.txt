@@ -1,0 +1,21 @@
+Bubble Trubble Logo.png
+	size: 3785, 3063
+	filter: Linear, Linear
+	pma: true
+B1
+	bounds: 2063, 2493, 595, 568
+B2
+	bounds: 2, 2623, 495, 438
+B3
+	bounds: 499, 2616, 509, 445
+Backdrop2
+	bounds: 2, 2, 3580, 1704
+E
+	bounds: 2660, 2471, 590, 615
+	rotate: 90
+L
+	bounds: 1010, 2562, 539, 499
+Trubble
+	bounds: 2, 1708, 3781, 761
+U
+	bounds: 1551, 2558, 510, 503

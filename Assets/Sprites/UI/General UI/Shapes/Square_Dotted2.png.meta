@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: dcabe7ae943e05a45b52f00dc2545b85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1718556664055524626
+    second: Square_Dotted2_0
+  - first:
+      213: 6840876532725697759
+    second: Square_Dotted2_1
+  - first:
+      213: 220746479240909693
+    second: Square_Dotted2_2
+  - first:
+      213: -3186786874229596570
+    second: Square_Dotted2_3
+  - first:
+      213: -6884742257525343141
+    second: Square_Dotted2_4
+  - first:
+      213: -7086346320853202089
+    second: Square_Dotted2_5
+  - first:
+      213: -8302007541007812686
+    second: Square_Dotted2_6
+  - first:
+      213: -7390747011877005217
+    second: Square_Dotted2_7
+  - first:
+      213: 5376810694945904317
+    second: Square_Dotted2_8
+  - first:
+      213: 6893122986337113669
+    second: Square_Dotted2_9
+  - first:
+      213: 6659989567466919513
+    second: Square_Dotted2_10
+  - first:
+      213: -4437844309494691776
+    second: Square_Dotted2_11
+  - first:
+      213: 7292325030040032210
+    second: Square_Dotted2_12
+  - first:
+      213: 1194164745668148798
+    second: Square_Dotted2_13
+  - first:
+      213: 7309512804811293357
+    second: Square_Dotted2_14
+  - first:
+      213: -7122295142547459367
+    second: Square_Dotted2_15
+  - first:
+      213: -2411696827476446496
+    second: Square_Dotted2_16
+  - first:
+      213: -1960379660157016555
+    second: Square_Dotted2_17
+  - first:
+      213: -8161527118384550245
+    second: Square_Dotted2_18
+  - first:
+      213: 4228078346340762451
+    second: Square_Dotted2_19
+  - first:
+      213: 2138387058878294651
+    second: Square_Dotted2_20
+  - first:
+      213: 6385910286919027155
+    second: Square_Dotted2_21
+  - first:
+      213: -1804874996337950029
+    second: Square_Dotted2_22
+  - first:
+      213: 776696472472618389
+    second: Square_Dotted2_23
+  - first:
+      213: 4655791282741873452
+    second: Square_Dotted2_24
+  - first:
+      213: 9166262997351706956
+    second: Square_Dotted2_25
+  - first:
+      213: 2932320025433134803
+    second: Square_Dotted2_26
+  - first:
+      213: -7921385177349430715
+    second: Square_Dotted2_27
+  - first:
+      213: -2838205715911283188
+    second: Square_Dotted2_28
+  - first:
+      213: 6632440189143031661
+    second: Square_Dotted2_29
+  - first:
+      213: 5134523439471465338
+    second: Square_Dotted2_30
+  - first:
+      213: 7815344604250489751
+    second: Square_Dotted2_31
+  - first:
+      213: 6603325105479813034
+    second: Square_Dotted2_32
+  - first:
+      213: -2490399513524286661
+    second: Square_Dotted2_33
+  - first:
+      213: -8388872639346635803
+    second: Square_Dotted2_34
+  - first:
+      213: 7412782867920978284
+    second: Square_Dotted2_35
+  - first:
+      213: -6900555980807082767
+    second: Square_Dotted2_36
+  - first:
+      213: 6258618707066930066
+    second: Square_Dotted2_37
+  - first:
+      213: 4802284927386162092
+    second: Square_Dotted2_38
+  - first:
+      213: 7951856621315343800
+    second: Square_Dotted2_39
+  - first:
+      213: -8015422848137225756
+    second: Square_Dotted2_40
+  - first:
+      213: -8145179180531358281
+    second: Square_Dotted2_41
+  - first:
+      213: 6830905255310762080
+    second: Square_Dotted2_42
+  - first:
+      213: -6475318653166055574
+    second: Square_Dotted2_43
+  - first:
+      213: -3879408998229647654
+    second: Square_Dotted2_44
+  - first:
+      213: 8073646650112968331
+    second: Square_Dotted2_45
+  - first:
+      213: -2141316188065785454
+    second: Square_Dotted2_46
+  - first:
+      213: -6313862334906663150
+    second: Square_Dotted2_47
+  - first:
+      213: 6779725865612900075
+    second: Square_Dotted2_48
+  - first:
+      213: -6247557660340246117
+    second: Square_Dotted2_49
+  - first:
+      213: -2510969603213446347
+    second: Square_Dotted2_50
+  - first:
+      213: 5731176344059334787
+    second: Square_Dotted2_51
+  - first:
+      213: 3661134764925341506
+    second: Square_Dotted2_52
+  - first:
+      213: -1967453316278126280
+    second: Square_Dotted2_53
+  - first:
+      213: -1245455895591019792
+    second: Square_Dotted2_54
+  - first:
+      213: -9115069395423186852
+    second: Square_Dotted2_55
+  - first:
+      213: -7493455213348354218
+    second: Square_Dotted2_56
+  - first:
+      213: -6808905519063766625
+    second: Square_Dotted2_57
+  - first:
+      213: -6025196398677298442
+    second: Square_Dotted2_58
+  - first:
+      213: -6987034929246591334
+    second: Square_Dotted2_59
+  - first:
+      213: -6795605207789460800
+    second: Square_Dotted2_60
+  - first:
+      213: -4130756604285773188
+    second: Square_Dotted2_61
+  - first:
+      213: 7465152592916447730
+    second: Square_Dotted2_62
+  - first:
+      213: 4825414658329358065
+    second: Square_Dotted2_63
+  - first:
+      213: -2912408850856719702
+    second: Square_Dotted2_64
+  - first:
+      213: -4321920393632927880
+    second: Square_Dotted2_65
+  - first:
+      213: 5661042297177096107
+    second: Square_Dotted2_66
+  - first:
+      213: -6773338458512961925
+    second: Square_Dotted2_67
+  - first:
+      213: 1412363101077415205
+    second: Square_Dotted2_68
+  - first:
+      213: 2500010838049282613
+    second: Square_Dotted2_69
+  - first:
+      213: -2913352949833814248
+    second: Square_Dotted2_70
+  - first:
+      213: -5540326866096172869
+    second: Square_Dotted2_71
+  - first:
+      213: -3811158158871460652
+    second: Square_Dotted2_72
+  - first:
+      213: -7224680249244077437
+    second: Square_Dotted2_73
+  - first:
+      213: 62474109617245856
+    second: Square_Dotted2_74
+  - first:
+      213: -4384795460455565400
+    second: Square_Dotted2_75
+  - first:
+      213: 8030966084251240908
+    second: Square_Dotted2_76
+  - first:
+      213: -7535853981791361258
+    second: Square_Dotted2_77
+  - first:
+      213: 1089179542586964350
+    second: Square_Dotted2_78
+  - first:
+      213: 6852444002577128076
+    second: Square_Dotted2_79
+  - first:
+      213: -5089392947863130437
+    second: Square_Dotted2_80
+  - first:
+      213: -6197355870787409785
+    second: Square_Dotted2_81
+  - first:
+      213: 7626327368792763859
+    second: Square_Dotted2_82
+  - first:
+      213: 6775549376428383518
+    second: Square_Dotted2_83
+  - first:
+      213: -5660513273813308841
+    second: Square_Dotted2_84
+  - first:
+      213: 6318931498974147813
+    second: Square_Dotted2_85
+  - first:
+      213: 7017246370698772028
+    second: Square_Dotted2_86
+  - first:
+      213: 290311277686584027
+    second: Square_Dotted2_87
+  - first:
+      213: -3816185655617670159
+    second: Square_Dotted2_88
+  - first:
+      213: -3317171678006075893
+    second: Square_Dotted2_89
+  - first:
+      213: -7364390977468320315
+    second: Square_Dotted2_90
+  - first:
+      213: -7655078040373680320
+    second: Square_Dotted2_91
+  - first:
+      213: 6860351706719869939
+    second: Square_Dotted2_92
+  - first:
+      213: 3888921980939469701
+    second: Square_Dotted2_93
+  - first:
+      213: 7748576306399089350
+    second: Square_Dotted2_94
+  - first:
+      213: 8075522579157037323
+    second: Square_Dotted2_95
+  - first:
+      213: 2781567514829995033
+    second: Square_Dotted2_96
+  - first:
+      213: 7831229631190541916
+    second: Square_Dotted2_97
+  - first:
+      213: 2002422243044513063
+    second: Square_Dotted2_98
+  - first:
+      213: -6687057843129069462
+    second: Square_Dotted2_99
+  - first:
+      213: 5036627812683127120
+    second: Square_Dotted2_100
+  - first:
+      213: 8585932933163859920
+    second: Square_Dotted2_101
+  - first:
+      213: -8590442022641713495
+    second: Square_Dotted2_102
+  - first:
+      213: -4268241258729679922
+    second: Square_Dotted2_103
+  - first:
+      213: -4180592509276321924
+    second: Square_Dotted2_104
+  - first:
+      213: -8391531627781408926
+    second: Square_Dotted2_105
+  - first:
+      213: 7969112232351167980
+    second: Square_Dotted2_106
+  - first:
+      213: -5493236900855534750
+    second: Square_Dotted2_107
+  - first:
+      213: 510330652517970856
+    second: Square_Dotted2_108
+  - first:
+      213: 2001916554264241844
+    second: Square_Dotted2_109
+  - first:
+      213: 7342568170831944415
+    second: Square_Dotted2_110
+  - first:
+      213: -8769718306989923112
+    second: Square_Dotted2_111
+  - first:
+      213: 7758543997053133391
+    second: Square_Dotted2_112
+  - first:
+      213: 5632147216641719447
+    second: Square_Dotted2_113
+  - first:
+      213: -438690089767457879
+    second: Square_Dotted2_114
+  - first:
+      213: -3705280061098970943
+    second: Square_Dotted2_115
+  - first:
+      213: -3484499019528364646
+    second: Square_Dotted2_116
+  - first:
+      213: 6041712552209459585
+    second: Square_Dotted2_117
+  - first:
+      213: 3470672119067549495
+    second: Square_Dotted2_118
+  - first:
+      213: 7270615242119847599
+    second: Square_Dotted2_119
+  - first:
+      213: 7868093506053732042
+    second: Square_Dotted2_120
+  - first:
+      213: 2976801723809203959
+    second: Square_Dotted2_121
+  - first:
+      213: -897297068295976145
+    second: Square_Dotted2_122
+  - first:
+      213: 4521406853774603828
+    second: Square_Dotted2_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Square_Dotted2_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 370
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee21790c1d57628e0800000000000000
+      internalID: -1718556664055524626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 370
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdccb6546fcafee50800000000000000
+      internalID: 6840876532725697759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 370
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d739298d0cf301300800000000000000
+      internalID: 220746479240909693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 370
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66edaa2e83246c3d0800000000000000
+      internalID: -3186786874229596570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 370
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb41ac46b7470a0800000000000000
+      internalID: -6884742257525343141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 370
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b0626f09d38ad90800000000000000
+      internalID: -7086346320853202089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77d9b902859cc80800000000000000
+      internalID: -8302007541007812686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589a4420cace6990800000000000000
+      internalID: -7390747011877005217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db695c8e6d44e9a40800000000000000
+      internalID: 5376810694945904317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54614b1b5da49af50800000000000000
+      internalID: 6893122986337113669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565ca8b9390d6c50800000000000000
+      internalID: 6659989567466919513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048841cfc1c9962c0800000000000000
+      internalID: -4437844309494691776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 345
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d93a7afa833560800000000000000
+      internalID: 7292325030040032210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e38dc5286829010800000000000000
+      internalID: 1194164745668148798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da242f32b2b907560800000000000000
+      internalID: 7309512804811293357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f7faad46882d90800000000000000
+      internalID: -7122295142547459367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2745c538ee78ed0800000000000000
+      internalID: -2411696827476446496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516a07be5155bc4e0800000000000000
+      internalID: -1960379660157016555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea8f3d35e6cbe80800000000000000
+      internalID: -8161527118384550245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 320
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353892ccad62daa30800000000000000
+      internalID: 4228078346340762451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 320
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aabbc43b31dad10800000000000000
+      internalID: 2138387058878294651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9425b629f4f9850800000000000000
+      internalID: 6385910286919027155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2ca43e0cbc3f6e0800000000000000
+      internalID: -1804874996337950029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595870c935167ca00800000000000000
+      internalID: 776696472472618389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b80341181bc9040800000000000000
+      internalID: 4655791282741873452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41b4f291ab153f70800000000000000
+      internalID: 9166262997351706956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6d4bbe681b1b820800000000000000
+      internalID: 2932320025433134803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ea078626911290800000000000000
+      internalID: -7921385177349430715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 295
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eef9750faac98d0800000000000000
+      internalID: -2838205715911283188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f15eb36392b0c50800000000000000
+      internalID: 6632440189143031661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a731d944ddd714740800000000000000
+      internalID: 5134523439471465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cd95928ea57c60800000000000000
+      internalID: 7815344604250489751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70b809239b3ab50800000000000000
+      internalID: 6603325105479813034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b449f46d2507dd0800000000000000
+      internalID: -2490399513524286661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb00c9d7ccb49b80800000000000000
+      internalID: -8388872639346635803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 270
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6108876ebe7fd660800000000000000
+      internalID: 7412782867920978284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 270
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fceb4b65ec4c30a0800000000000000
+      internalID: -6900555980807082767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293c653fd841bd650800000000000000
+      internalID: 6258618707066930066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39017a2b425a240800000000000000
+      internalID: 4802284927386162092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c652677baa5e60800000000000000
+      internalID: 7951856621315343800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91b3c136f73c090800000000000000
+      internalID: -8015422848137225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b56588b0b286fe80800000000000000
+      internalID: -8145179180531358281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_42
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a52553204cce50800000000000000
+      internalID: 6830905255310762080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f839e1efb0326a0800000000000000
+      internalID: -6475318653166055574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 245
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5112f112992ac0800000000000000
+      internalID: -3879408998229647654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86810e2ada5b0070800000000000000
+      internalID: 8073646650112968331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999b8aa5448842e0800000000000000
+      internalID: -2141316188065785454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f7b2f98a7a068a0800000000000000
+      internalID: -6313862334906663150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6726611cc661e50800000000000000
+      internalID: 6779725865612900075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9926ada8673c49a0800000000000000
+      internalID: -6247557660340246117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b8a6137e372dd0800000000000000
+      internalID: -2510969603213446347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38057c4158a398f40800000000000000
+      internalID: 5731176344059334787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 220
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f4532dba6fec230800000000000000
+      internalID: 3661134764925341506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839f31302a332b4e0800000000000000
+      internalID: -1967453316278126280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa91ef267047bee0800000000000000
+      internalID: -1245455895591019792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5034c6bda4c08180800000000000000
+      internalID: -9115069395423186852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657821c7f26e10890800000000000000
+      internalID: -7493455213348354218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99e10b6188e181a0800000000000000
+      internalID: -6808905519063766625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f270ea5cc3326ca0800000000000000
+      internalID: -6025196398677298442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a20130c0190f90800000000000000
+      internalID: -6987034929246591334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_60
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22ae3711921b1a0800000000000000
+      internalID: -6795605207789460800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a92fb01ca9ca6c0800000000000000
+      internalID: -4130756604285773188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10fde2bbc899760800000000000000
+      internalID: 7465152592916447730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2fabc01157f240800000000000000
+      internalID: 4825414658329358065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4bfba49b0597d0800000000000000
+      internalID: -2912408850856719702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2efdec447504c0800000000000000
+      internalID: -4321920393632927880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafb3bdc9ff009e40800000000000000
+      internalID: 5661042297177096107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ec7d40f844002a0800000000000000
+      internalID: -6773338458512961925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_68
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 170
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a695e1c8b99310800000000000000
+      internalID: 1412363101077415205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53add809c92d1b220800000000000000
+      internalID: 2500010838049282613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa1df7de0b197d0800000000000000
+      internalID: -2913352949833814248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d8c6b11ecc13b0800000000000000
+      internalID: -5540326866096172869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d482adc8db0c1bc0800000000000000
+      internalID: -3811158158871460652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382b6006797ccbb90800000000000000
+      internalID: -7224680249244077437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae05672fd3fdd000800000000000000
+      internalID: 62474109617245856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fcc6a2c31623c0800000000000000
+      internalID: -4384795460455565400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 146
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9410f8a19b37f60800000000000000
+      internalID: 8030966084251240908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_77
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ec10fab44b6790800000000000000
+      internalID: -7535853981791361258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_78
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79b484f50b8d1f00800000000000000
+      internalID: 1089179542586964350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a9dd8b385c81f50800000000000000
+      internalID: 6852444002577128076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6d342418de59b0800000000000000
+      internalID: -5089392947863130437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e807aba19ef9a0800000000000000
+      internalID: -6197355870787409785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_82
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6bbdf55826d960800000000000000
+      internalID: 7626327368792763859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d122c6246970e50800000000000000
+      internalID: 6775549376428383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_84
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 121
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a69fb0b21d171b0800000000000000
+      internalID: -5660513273813308841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4716c18ba51b750800000000000000
+      internalID: 6318931498974147813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e36ea2564426160800000000000000
+      internalID: 7017246370698772028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27cc4a194670400800000000000000
+      internalID: 290311277686584027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3b7ff7d5f2a0bc0800000000000000
+      internalID: -3816185655617670159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_89
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e16791fe907f1d0800000000000000
+      internalID: -3317171678006075893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_90
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b8e89c6d6cc990800000000000000
+      internalID: -7364390977468320315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_91
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04722a3a413b3c590800000000000000
+      internalID: -7655078040373680320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5841978dd43f50800000000000000
+      internalID: 6860351706719869939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_93
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830b11ffe938f530800000000000000
+      internalID: 3888921980939469701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c21de1d819788b60800000000000000
+      internalID: 7748576306399089350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013d42fff4021070800000000000000
+      internalID: 8075522579157037323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3538daec1a9620800000000000000
+      internalID: 2781567514829995033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5620a1abdd1eac60800000000000000
+      internalID: 7831229631190541916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255207bb680acb10800000000000000
+      internalID: 2002422243044513063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605dcb325cc233a0800000000000000
+      internalID: -6687057843129069462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 71
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05994d87f42b5e540800000000000000
+      internalID: 5036627812683127120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3f82338c572770800000000000000
+      internalID: 8585932933163859920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_102
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae3ad89e7e98c880800000000000000
+      internalID: -8590442022641713495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec350c5703924c4c0800000000000000
+      internalID: -4268241258729679922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_104
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770de5334d8bf5c0800000000000000
+      internalID: -4180592509276321924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_105
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26732acd17a4b8b80800000000000000
+      internalID: -8391531627781408926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_106
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5f2886a59f79e60800000000000000
+      internalID: 7969112232351167980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_107
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2071a42a14c3b0800000000000000
+      internalID: -5493236900855534750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_108
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3b35d460f051700800000000000000
+      internalID: 510330652517970856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_109
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e4eedf7c38cb10800000000000000
+      internalID: 2001916554264241844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda178949da06e560800000000000000
+      internalID: 7342568170831944415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d420abe9a3bb4680800000000000000
+      internalID: -8769718306989923112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f426796a8a2ebab60800000000000000
+      internalID: 7758543997053133391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c72aa9d08692e40800000000000000
+      internalID: 5632147216641719447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_114
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab2de800b579e9f0800000000000000
+      internalID: -438690089767457879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bbd47a63349cc0800000000000000
+      internalID: -3705280061098970943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 26
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d90d87a9294afc0800000000000000
+      internalID: -3484499019528364646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a67d4e8978d350800000000000000
+      internalID: 6041712552209459585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_118
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9fd467ed4a2030800000000000000
+      internalID: 3470672119067549495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae18159a0a66e460800000000000000
+      internalID: 7270615242119847599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_120
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f3e75b55113d60800000000000000
+      internalID: 7868093506053732042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60b626569bf4920800000000000000
+      internalID: 2976801723809203959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_122
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b083a02192c83f0800000000000000
+      internalID: -897297068295976145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Dotted2_123
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436704cf3934fbe30800000000000000
+      internalID: 4521406853774603828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Square_Dotted2_0: -1718556664055524626
+      Square_Dotted2_1: 6840876532725697759
+      Square_Dotted2_10: 6659989567466919513
+      Square_Dotted2_100: 5036627812683127120
+      Square_Dotted2_101: 8585932933163859920
+      Square_Dotted2_102: -8590442022641713495
+      Square_Dotted2_103: -4268241258729679922
+      Square_Dotted2_104: -4180592509276321924
+      Square_Dotted2_105: -8391531627781408926
+      Square_Dotted2_106: 7969112232351167980
+      Square_Dotted2_107: -5493236900855534750
+      Square_Dotted2_108: 510330652517970856
+      Square_Dotted2_109: 2001916554264241844
+      Square_Dotted2_11: -4437844309494691776
+      Square_Dotted2_110: 7342568170831944415
+      Square_Dotted2_111: -8769718306989923112
+      Square_Dotted2_112: 7758543997053133391
+      Square_Dotted2_113: 5632147216641719447
+      Square_Dotted2_114: -438690089767457879
+      Square_Dotted2_115: -3705280061098970943
+      Square_Dotted2_116: -3484499019528364646
+      Square_Dotted2_117: 6041712552209459585
+      Square_Dotted2_118: 3470672119067549495
+      Square_Dotted2_119: 7270615242119847599
+      Square_Dotted2_12: 7292325030040032210
+      Square_Dotted2_120: 7868093506053732042
+      Square_Dotted2_121: 2976801723809203959
+      Square_Dotted2_122: -897297068295976145
+      Square_Dotted2_123: 4521406853774603828
+      Square_Dotted2_13: 1194164745668148798
+      Square_Dotted2_14: 7309512804811293357
+      Square_Dotted2_15: -7122295142547459367
+      Square_Dotted2_16: -2411696827476446496
+      Square_Dotted2_17: -1960379660157016555
+      Square_Dotted2_18: -8161527118384550245
+      Square_Dotted2_19: 4228078346340762451
+      Square_Dotted2_2: 220746479240909693
+      Square_Dotted2_20: 2138387058878294651
+      Square_Dotted2_21: 6385910286919027155
+      Square_Dotted2_22: -1804874996337950029
+      Square_Dotted2_23: 776696472472618389
+      Square_Dotted2_24: 4655791282741873452
+      Square_Dotted2_25: 9166262997351706956
+      Square_Dotted2_26: 2932320025433134803
+      Square_Dotted2_27: -7921385177349430715
+      Square_Dotted2_28: -2838205715911283188
+      Square_Dotted2_29: 6632440189143031661
+      Square_Dotted2_3: -3186786874229596570
+      Square_Dotted2_30: 5134523439471465338
+      Square_Dotted2_31: 7815344604250489751
+      Square_Dotted2_32: 6603325105479813034
+      Square_Dotted2_33: -2490399513524286661
+      Square_Dotted2_34: -8388872639346635803
+      Square_Dotted2_35: 7412782867920978284
+      Square_Dotted2_36: -6900555980807082767
+      Square_Dotted2_37: 6258618707066930066
+      Square_Dotted2_38: 4802284927386162092
+      Square_Dotted2_39: 7951856621315343800
+      Square_Dotted2_4: -6884742257525343141
+      Square_Dotted2_40: -8015422848137225756
+      Square_Dotted2_41: -8145179180531358281
+      Square_Dotted2_42: 6830905255310762080
+      Square_Dotted2_43: -6475318653166055574
+      Square_Dotted2_44: -3879408998229647654
+      Square_Dotted2_45: 8073646650112968331
+      Square_Dotted2_46: -2141316188065785454
+      Square_Dotted2_47: -6313862334906663150
+      Square_Dotted2_48: 6779725865612900075
+      Square_Dotted2_49: -6247557660340246117
+      Square_Dotted2_5: -7086346320853202089
+      Square_Dotted2_50: -2510969603213446347
+      Square_Dotted2_51: 5731176344059334787
+      Square_Dotted2_52: 3661134764925341506
+      Square_Dotted2_53: -1967453316278126280
+      Square_Dotted2_54: -1245455895591019792
+      Square_Dotted2_55: -9115069395423186852
+      Square_Dotted2_56: -7493455213348354218
+      Square_Dotted2_57: -6808905519063766625
+      Square_Dotted2_58: -6025196398677298442
+      Square_Dotted2_59: -6987034929246591334
+      Square_Dotted2_6: -8302007541007812686
+      Square_Dotted2_60: -6795605207789460800
+      Square_Dotted2_61: -4130756604285773188
+      Square_Dotted2_62: 7465152592916447730
+      Square_Dotted2_63: 4825414658329358065
+      Square_Dotted2_64: -2912408850856719702
+      Square_Dotted2_65: -4321920393632927880
+      Square_Dotted2_66: 5661042297177096107
+      Square_Dotted2_67: -6773338458512961925
+      Square_Dotted2_68: 1412363101077415205
+      Square_Dotted2_69: 2500010838049282613
+      Square_Dotted2_7: -7390747011877005217
+      Square_Dotted2_70: -2913352949833814248
+      Square_Dotted2_71: -5540326866096172869
+      Square_Dotted2_72: -3811158158871460652
+      Square_Dotted2_73: -7224680249244077437
+      Square_Dotted2_74: 62474109617245856
+      Square_Dotted2_75: -4384795460455565400
+      Square_Dotted2_76: 8030966084251240908
+      Square_Dotted2_77: -7535853981791361258
+      Square_Dotted2_78: 1089179542586964350
+      Square_Dotted2_79: 6852444002577128076
+      Square_Dotted2_8: 5376810694945904317
+      Square_Dotted2_80: -5089392947863130437
+      Square_Dotted2_81: -6197355870787409785
+      Square_Dotted2_82: 7626327368792763859
+      Square_Dotted2_83: 6775549376428383518
+      Square_Dotted2_84: -5660513273813308841
+      Square_Dotted2_85: 6318931498974147813
+      Square_Dotted2_86: 7017246370698772028
+      Square_Dotted2_87: 290311277686584027
+      Square_Dotted2_88: -3816185655617670159
+      Square_Dotted2_89: -3317171678006075893
+      Square_Dotted2_9: 6893122986337113669
+      Square_Dotted2_90: -7364390977468320315
+      Square_Dotted2_91: -7655078040373680320
+      Square_Dotted2_92: 6860351706719869939
+      Square_Dotted2_93: 3888921980939469701
+      Square_Dotted2_94: 7748576306399089350
+      Square_Dotted2_95: 8075522579157037323
+      Square_Dotted2_96: 2781567514829995033
+      Square_Dotted2_97: 7831229631190541916
+      Square_Dotted2_98: 2002422243044513063
+      Square_Dotted2_99: -6687057843129069462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
